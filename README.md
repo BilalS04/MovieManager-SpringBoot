@@ -55,6 +55,7 @@ Then visit: http://localhost:8080/movies
 ---
 
 🧠 What I Learned
+
 Creating full CRUD functionality using Spring Boot and JSP
 
 Integrating PostgreSQL with Spring Data JPA
