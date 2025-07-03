@@ -47,7 +47,9 @@ spring.jpa.show-sql=true
 ---
 
 ▶️ Run the App
+
 ./mvnw spring-boot:run
+
 Then visit: http://localhost:8080/movies
 
 ---
