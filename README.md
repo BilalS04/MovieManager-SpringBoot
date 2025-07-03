@@ -31,18 +31,16 @@ This is a full-stack Java web application that allows users to manage a collecti
 Configure your database credentials by creating a local file:
 
 📁 src/main/resources/application.properties
-properties
-Kopier
-Rediger
+
+**properties
 spring.mvc.view.prefix=/WEB-INF/jsp/
 spring.mvc.view.suffix=.jsp
 
-spring.datasource.url=jdbc:postgresql://localhost:5432/moviedb
+spring.datasource.url=jdbc:postgresql://<HOST>:<PORT>/<DATABASE>
 spring.datasource.username=your_db_username
 spring.datasource.password=your_db_password
 
 spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
 
 ---
 
