@@ -32,7 +32,6 @@ Configure your database credentials by creating a local file:
 
 📁 src/main/resources/application.properties
 
-**properties
 spring.mvc.view.prefix=/WEB-INF/jsp/
 spring.mvc.view.suffix=.jsp
 
