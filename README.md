@@ -23,6 +23,7 @@ This is a full-stack Java web application that allows users to manage a collecti
 - JSP / JSTL
 - HTML/CSS
 - Bootstrap
-- IntelliJ IDEA 
+- IntelliJ IDEA
+- Maven
 
 ---
